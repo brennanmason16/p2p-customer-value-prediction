@@ -1,3 +1,8 @@
-data/
-outputs/
 .DS_Store
+**/.DS_Store
+data/**
+!data/**/
+!data/**/.gitkeep
+outputs/**
+!outputs/**/
+!outputs/**/.gitkeep
